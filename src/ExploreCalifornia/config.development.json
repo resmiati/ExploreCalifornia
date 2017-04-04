@@ -1,0 +1,11 @@
+﻿{
+  "ConnectionStrings": {
+    "DataContext": "Server=(localdb)\\mssqllocaldb;Database=ExploreCalifornia;Trusted_Connection=true;MultipleActiveResultSets=true;"
+    //"DataContext": "Data Source=MTPC658;Initial Catalog=ExploreCalifornia;Integrated Security=SSPI;User ID=MITRAIS/Puji_R;Password=S1mplepl@n2;providerName=”System.Data.SqlClient”;"
+    //"IdentityDataContext": "Server=(localdb)\\mssqllocaldb;Database=ExploreCalifornia_Identity;Trusted_Connection=True;"
+  },
+
+  "FeatureToggles": {
+    "EnableDeveloperExceptions": true
+  }
+}
